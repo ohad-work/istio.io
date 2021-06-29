@@ -221,9 +221,9 @@ integrations:
       - "Space Cloud integrates with Kubernetes and Istio natively to bring to you a highly scalable Serverless Platform. It encrypts all traffic by default and lets you describe communication policies to protect your microservices."
 
 pro_services:
-  - name: "Your Name Here"
-    logo: "/logos/istio.svg"
-    url: "https://istio.io/"
+  - name: "Cloudzone"
+    logo: "/logos/cloudzone.svg"
+    url: "https://cloudzone.io/"
     description: "Submit a PR to add your company here!"
   - name: "Your Name Here"
     logo: "/logos/istio.svg"
